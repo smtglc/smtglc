@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="./s-logo.png" alt="Samet Güleç S Cyber Logo" width="150" />
+  <img alt="Samet Güleç S Cyber Logo" width="150" />
 
   <h1>Hi 👋, I'm Samet Güleç</h1>
   <h3>💻 Backend Developer | C# · .NET · SQL</h3>
