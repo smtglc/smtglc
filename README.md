@@ -38,6 +38,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" hspace="10" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" hspace="10" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" hspace="10" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="SQL Server" hspace="10" /></a>
 </div>
 
 ## 📊 GitHub Stats
