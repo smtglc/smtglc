@@ -34,19 +34,19 @@
 
 <div align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" hspace="10" />
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" hspace="10" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" hspace="10" />
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" hspace="10" />
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" hspace="10" />
   </a>
 </div>
 
