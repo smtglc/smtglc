@@ -11,7 +11,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+reliable+backend+systems;Learning+something+new+every+day;Turning+ideas+into+working+software" alt="Typing SVG" />
 
- 
+ <br />
 
   <a href="https://github.com/smtglc">
     <img src="https://img.shields.io/badge/GitHub-smtglc-111827?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
