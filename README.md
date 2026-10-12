@@ -42,12 +42,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=smtglc&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7F00FF&text_color=C9D1D9&rank_icon=github" alt="Samet's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtglc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Most used languages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=smtglc&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7F00FF&text_color=C9D1D9&rank_icon=github&count_private=true&include_all_commits=false"
+    alt="Samet's GitHub stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtglc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"
+    alt="Most used languages"
+  />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=smtglc&hide_border=true&background=0D1117&ring=7F00FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=smtglc&hide_border=true&background=0D1117&ring=7F00FF&fire=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub contribution streak"
+  />
 </div>
 
 ## 🐍 Contribution Graph
