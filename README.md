@@ -39,6 +39,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="SQL Server" hspace="10" /></a>
 </div>
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -46,13 +47,6 @@
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtglc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&v=2"
     alt="Most used languages"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=smtglc&hide_border=true&background=0D1117&ring=7F00FF&fire=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&v=1"
-    alt="GitHub contribution streak"
   />
 </div>
 
