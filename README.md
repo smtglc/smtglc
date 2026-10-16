@@ -41,25 +41,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/smtglc/WebApi?style=for-the-badge&label=Commits%20(1%20year)&color=7F00FF&labelColor=111827" alt="Commits" />
-  <img src="https://img.shields.io/github/last-commit/smtglc/WebApi?style=for-the-badge&label=Last%20Commit&color=00F5FF&labelColor=111827" alt="Last commit" />
-  <img src="https://img.shields.io/github/followers/smtglc?style=for-the-badge&label=Followers&color=7F00FF&labelColor=111827" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=smtglc&label=Profile%20Views&color=00F5FF&style=for-the-badge&labelColor=111827" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Repositories-1-7F00FF?style=for-the-badge&labelColor=111827" alt="Repositories" />
-</div>
+
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtglc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&v=2" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtglc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&v=2" alt="Most used languages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtglc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&v=2"
+    alt="Most used languages"
+  />
 </div>
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=smtglc&hide_border=true&background=0D1117&ring=7F00FF&fire=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=smtglc&hide_border=true&background=0D1117&ring=7F00FF&fire=00F5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=8B949E&v=1"
     alt="GitHub contribution streak"
   />
 </div>
