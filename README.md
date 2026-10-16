@@ -42,16 +42,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=smtglc&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7F00FF&text_color=C9D1D9&rank_icon=github&count_private=true&include_all_commits=false"
-    alt="Samet's GitHub stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtglc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"
-    alt="Most used languages"
-  />
+  <img src="https://img.shields.io/github/commit-activity/y/smtglc/WebApi?style=for-the-badge&label=Commits%20(1%20year)&color=7F00FF&labelColor=111827" alt="Commits" />
+  <img src="https://img.shields.io/github/last-commit/smtglc/WebApi?style=for-the-badge&label=Last%20Commit&color=00F5FF&labelColor=111827" alt="Last commit" />
+  <img src="https://img.shields.io/github/followers/smtglc?style=for-the-badge&label=Followers&color=7F00FF&labelColor=111827" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=smtglc&label=Profile%20Views&color=00F5FF&style=for-the-badge&labelColor=111827" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Repositories-1-7F00FF?style=for-the-badge&labelColor=111827" alt="Repositories" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtglc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&v=2" alt="Most used languages" />
 </div>
 
 <div align="center">
